@@ -1,4 +1,3 @@
 # Mobile-Application-
 *********************************************************************************************************************************************************************
-This Repo is destinated to mobile development!
-
+This repository is dedicated to mobile development
